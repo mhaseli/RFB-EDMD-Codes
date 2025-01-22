@@ -1,0 +1,14 @@
+# Ignore all folders named 'figures' anywhere in the project
+figures/
+**/figures/
+
+# Common files to ignore
+.DS_Store
+*.log
+*.tmp 
+
+# MATLAB specific
+*.asv
+*.m~
+*.mex*
+slprj/
