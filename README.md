@@ -58,10 +58,10 @@ Also, if you use the T-SSD algorithm (which we have used for comparison), please
 
 ## References
 
-[3] M. Haseli and J. Cortés, "Temporal forward--backward consistency, not residual error, measures the prediction accuracy of extended dynamic mode decomposition," IEEE Control Systems Letters, vol. 7, pp. 649--654, 2022. [DOI](https://doi.org/10.1109/LCSYS.2022.3214476)
+[3] M. Haseli and J. Cortés, "Temporal forward-backward consistency, not residual error, measures the prediction accuracy of extended dynamic mode decomposition," IEEE Control Systems Letters, vol. 7, pp. 649--654, 2022. [DOI](https://doi.org/10.1109/LCSYS.2022.3214476)
 
 [4] M. Haseli and J. Cortés, "Modeling Nonlinear Control Systems via Koopman Control Family: Universal Forms and Subspace Invariance Proximity," [arXiv:2307.15368](https://arxiv.org/abs/2307.15368), 2023.
 
 [5] M. Haseli and J. Cortés, "Invariance Proximity: Closed-Form Error Bounds for Finite-Dimensional Koopman-Based Models," [arXiv:2311.13033](https://arxiv.org/abs/2311.13033), 2023.
 
-[6] M. O. Williams, I. G. Kevrekidis, and C. W. Rowley, "A data--driven approximation of the koopman operator: Extending dynamic mode decomposition," Journal of Nonlinear Science, vol. 25, pp. 1307--1346, 2015. [DOI](https://doi.org/10.1007/s00332-015-9258-5)
+[6] M. O. Williams, I. G. Kevrekidis, and C. W. Rowley, "A data-driven approximation of the koopman operator: Extending dynamic mode decomposition," Journal of Nonlinear Science, vol. 25, pp. 1307--1346, 2015. [DOI](https://doi.org/10.1007/s00332-015-9258-5)
