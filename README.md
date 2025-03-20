@@ -3,7 +3,7 @@
 This repository contains the simulation files for the paper:
 
 **"Recursive Forward-Backward EDMD: Guaranteed Algebraic Search for Koopman Invariant Subspaces"**  
-by Masih Haseli and Jorge Cortes
+by Masih Haseli and Jorge Cortes, Published in IEEE ACCESS
 
 ## Description
 
