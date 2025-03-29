@@ -50,7 +50,7 @@ Each example folder contains:
 
 If you use this code in your research, please cite:
 
-[1] M. Haseli and J. Cortés, "Recursive Forward-Backward EDMD: Guaranteed Algebraic Search for Koopman Invariant Subspaces," IEEE ACCESS, 2025
+[1] M. Haseli and J. Cortés, "Recursive Forward-Backward EDMD: Guaranteed Algebraic Search for Koopman Invariant Subspaces," IEEE ACCESS, 2025. [DOI](https://doi.org/10.1109/ACCESS.2025.3554154)
 
 Also, if you use the T-SSD algorithm (which we have used for comparison), please cite:
 
